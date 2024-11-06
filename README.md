@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b5020d9-a0d8-44b6-8a17-db0cd354436f)# Implementation-of-SVM-For-Spam-Mail-Detection
+# Implementation-of-SVM-For-Spam-Mail-Detection
 
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
@@ -28,11 +28,10 @@ Step 9. End the Program.
 
 ## Program:
 ```
-/*
 Program to implement the SVM For Spam Mail Detection..
 Developed by: SARANYA S
 RegisterNumber: 212223110044 
-*/
+
 ```
 ```
 import pandas as pd
@@ -127,5 +126,5 @@ accuracy
 ```
 ![Screenshot 2024-11-06 112911](https://github.com/user-attachments/assets/346ce464-74cc-4d7c-b87b-d8576516ed29)
 
-## Result:
+# Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
